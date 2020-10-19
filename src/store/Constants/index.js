@@ -1,0 +1,2 @@
+export const ADD_WEATHER_DATA = "ADD_WEATHER_DATA";
+export const ERROR_DATA = "ERROR_DATA"

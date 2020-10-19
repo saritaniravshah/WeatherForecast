@@ -1,0 +1,35 @@
+.weather-wrapper {
+    width: 35%;
+    border: solid;
+    border-width: 1px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border-color: #00000050;
+}
+
+.city-label {
+    width: 100%;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+    color:  #00000080;
+}
+
+.weather {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000001;
+}
+
+.weather-celsius {
+    font-size: 50px;
+    color: #000001;
+}
+

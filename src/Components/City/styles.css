@@ -1,0 +1,16 @@
+.city-wrapper {
+    width: 100%;
+}
+
+.name-label {
+    font-size: 22px;
+    padding: 10px;
+    font-weight: 500;
+}
+
+.text-input {
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+    font-size: 22px;
+}
